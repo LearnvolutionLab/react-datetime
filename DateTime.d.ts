@@ -4,7 +4,7 @@
 //     Updates by: Aaron Spaulding <aaron@sachimp.com>,
 //                 Karol Janyst <http://github.com/LKay>
 
-import { Component, ChangeEvent, FocusEvent, FocusEventHandler } from "react";
+import React, { JSX, Component, ChangeEvent, FocusEvent, FocusEventHandler } from "react";
 import { Moment } from "moment";
 
 export = ReactDatetimeClass;
